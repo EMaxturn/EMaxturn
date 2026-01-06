@@ -1,3 +1,3 @@
 - Hi, I’m Evan Turner
 - I'm working on multimodal agent evaluation and tool-use.
-
+- I have past experience in natural langugae processing and machine learning for fraud detection.
